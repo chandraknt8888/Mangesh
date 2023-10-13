@@ -32,5 +32,4 @@ main()
 	double b = 3.5e30;
 	printf("%f %lf", a,b);*/
 
-
 }
